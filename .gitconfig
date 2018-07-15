@@ -1,0 +1,55 @@
+[user]
+  name = Sarah Robin
+  email = hello@sarahrobin.net
+
+[github]
+  user = burgundyshark
+
+[core]
+  excludesfile = ~/.gitignore_global
+  editor = code
+  filemode = false
+  trustctime = false
+    autocrlf = input
+
+[alias] # Super thanks to http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/
+# Legible log
+ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
+# Log w/ date
+lds = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short
+# Log w/ relative date
+ld = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+
+# Commit history related to file
+filelog = log -u
+fl = log -u
+
+# Show modified files from last commit
+dl = "!git ll -1"
+# Show a diff of files from last commit
+dlc = diff --cached HEAD^
+
+# Find a file path in codebase
+f = "!git ls-files | grep -i"
+# Search/grep codebase for a string
+grep = grep -Ii
+gr = grep -Ii
+# Same from project root
+gra = "!f() { A=$(pwd) && TOPLEVEL=$(git rev-parse --show-toplevel) && cd $TOPLEVEL && git grep --full-name -In $1 | xargs -I{} echo $TOPLEVEL/{} && cd $A; }; f"
+
+# normal operation shortcuts
+st = status -s
+cl = clone
+br = branch
+cm = commit
+
+# reset shortcuts
+r = reset
+r1 = reset HEAD^
+r2 = reset HEAD^^
+rh = reset --hard
+rh1 = reset HEAD^ --hard
+rh2 = reset HEAD^^ --hard
+
+# List custom aliases
+la = "!git config -l | grep alias | cut -c 7-"
