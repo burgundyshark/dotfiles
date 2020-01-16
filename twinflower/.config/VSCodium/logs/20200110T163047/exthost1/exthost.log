@@ -1,0 +1,56 @@
+[2020-01-10 16:30:48.760] [exthost] [info] extension host started
+[2020-01-10 16:30:48.800] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer {"startup":false,"extensionId":{"value":"GrapeCity.gc-excelviewer","_lower":"grapecity.gc-excelviewer"},"activationEvent":"onLanguage:plaintext"}
+[2020-01-10 16:30:48.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/grapecity.gc-excelviewer-2.1.32/dist/extension
+[2020-01-10 16:30:48.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-10 16:30:48.867] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-10 16:30:48.869] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-10 16:30:48.869] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/emmet/dist/extension
+[2020-01-10 16:30:48.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"waderyan.gitblame","_lower":"waderyan.gitblame"},"activationEvent":"*"}
+[2020-01-10 16:30:48.876] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/git/dist/main
+[2020-01-10 16:30:48.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-10 16:30:48.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-10 16:30:48.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-10 16:30:48.887] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/search-result/dist/extension.js
+[2020-01-10 16:30:48.887] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-01-10 16:30:48.887] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2020-01-10 16:30:48.893] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2020-01-10 16:30:48.893] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.0.29/out/src/extension
+[2020-01-10 16:30:48.903] [exthost] [info] ExtensionService#_doActivateExtension cssho.vscode-svgviewer {"startup":true,"extensionId":{"value":"cssho.vscode-svgviewer","_lower":"cssho.vscode-svgviewer"},"activationEvent":"*"}
+[2020-01-10 16:30:48.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/cssho.vscode-svgviewer-2.0.0/out/src/extension
+[2020-01-10 16:30:48.932] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-01-10 16:30:48.932] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2020-01-10 16:30:48.982] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-01-10 16:30:48.982] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/editorconfig.editorconfig-0.14.4/out/editorConfigMain.js
+[2020-01-10 16:30:48.991] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-01-10 16:30:48.992] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/equinusocio.vsc-material-theme-32.0.0/build/material.theme.config
+[2020-01-10 16:30:48.996] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-01-10 16:30:48.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-1.1.2/out/src/extension
+[2020-01-10 16:30:49.002] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-01-10 16:30:49.002] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2020-01-10 16:30:49.003] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2020-01-10 16:30:49.003] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2020-01-10 16:30:49.004] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-01-10 16:30:49.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/hookyqr.beautify-1.5.0/extension
+[2020-01-10 16:30:49.032] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-01-10 16:30:49.032] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/ionutvmi.path-autocomplete-1.13.3/out/src/extension
+[2020-01-10 16:30:49.036] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-01-10 16:30:49.036] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2020-01-10 16:30:49.040] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-10 16:30:49.040] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-10 16:30:49.057] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme {"startup":true,"extensionId":{"value":"zhuangtongfa.material-theme","_lower":"zhuangtongfa.material-theme"},"activationEvent":"*"}
+[2020-01-10 16:30:49.057] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/zhuangtongfa.material-theme-3.2.1/out/extension.js
+[2020-01-10 16:30:49.067] [exthost] [info] eager extensions activated
+[2020-01-10 16:30:49.099] [exthost] [error] Activating extension Equinusocio.vsc-material-theme failed due to an error:
+[2020-01-10 16:30:49.100] [exthost] [error] TypeError: Cannot read property 'firstInstall' of undefined
+	at /home/cupoftwee/.vscode-oss/extensions/equinusocio.vsc-material-theme-32.0.0/build/material.theme.config.js:28:31
+	at Generator.next (<anonymous>)
+	at /home/cupoftwee/.vscode-oss/extensions/equinusocio.vsc-material-theme-32.0.0/build/material.theme.config.js:8:71
+	at new Promise (<anonymous>)
+	at __awaiter (/home/cupoftwee/.vscode-oss/extensions/equinusocio.vsc-material-theme-32.0.0/build/material.theme.config.js:4:12)
+	at activate (/home/cupoftwee/.vscode-oss/extensions/equinusocio.vsc-material-theme-32.0.0/build/material.theme.config.js:25:12)
+	at Function._callActivateOptional (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:911)
+	at Function._callActivate (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:562)
+	at /usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:694:651
+	at async Promise.all (index 10)
+[2020-01-10 16:30:57.647] [exthost] [info] ExtensionService#_doActivateExtension waderyan.gitblame {"startup":true,"extensionId":{"value":"waderyan.gitblame","_lower":"waderyan.gitblame"},"activationEvent":"*"}
+[2020-01-10 16:30:57.647] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/cupoftwee/.vscode-oss/extensions/waderyan.gitblame-3.0.1/dist/bundle

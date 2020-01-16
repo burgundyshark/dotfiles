@@ -1,0 +1,30 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1013f155d8e5000157880280000000059380004
+clientId2=1013f155d8e5000157880280000000059380003
+clientId3=1013f155d8e5000157910328700000070140004
+clientId4=1013f155d8e5000157910328800000070140008
+count=4
+discardCommand2[$e]=rm,$HOME/.config/session/kwin_1013f155d8e5000157880280000000059380003_1579103708_392180
+program1=/usr/bin/msm_notifier
+program2=/usr/bin/kwin_x11
+program3=/usr/lib/DiscoverNotifier
+program4=pulseaudio
+restartCommand1=/usr/bin/msm_notifier,-session,1013f155d8e5000157880280000000059380004_1579103708_380622
+restartCommand2=/usr/bin/kwin_x11,-session,1013f155d8e5000157880280000000059380003_1579103708_392180
+restartCommand3=/usr/lib/DiscoverNotifier,-session,1013f155d8e5000157910328700000070140004_1579103708_380641
+restartCommand4=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=cupoftwee
+userId2=cupoftwee
+userId3=cupoftwee
+userId4=cupoftwee
+wasWm1=false
+wasWm2=true
+wasWm3=false
+wasWm4=false

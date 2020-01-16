@@ -1,0 +1,5 @@
+[General]
+history=fire,bett,disc,sett
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=/app/bin/steam-wrapper com.valvesoftware.Steam steam://open/settings,1 services_bettergram.desktop,1 services_discord.desktop,1 services_firefox.desktop,1 services_systemsettings.desktop

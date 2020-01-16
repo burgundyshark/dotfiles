@@ -1,0 +1,41 @@
+[CompactMode]
+FontWeight=50
+IconSize=80
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+EditableUrl=true
+FilterBar=true
+ShowCopyMoveMenu=true
+ShowFullPath=true
+ShowToolTips=true
+UseTabForSwitchingSplitView=true
+Version=200
+ViewPropsTimestamp=2020,1,10,13,10,57
+
+[IconsMode]
+IconSize=128
+MaximumTextLines=2
+PreviewSize=80
+TextWidthIndex=2
+UseSystemFont=false
+
+[MainWindow]
+Height 1080=1017
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC0AAADxfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawEAAAA0AAAAmAAAAFwA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAADQAAADKQAAAFwA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAC7wAAA8UAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=935
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
+
+[SettingsDialog]
+Height 1080=597
+Width 1920=617
+
+[ViewPropertiesDialog]
+Height 1080=611
+Width 1920=436

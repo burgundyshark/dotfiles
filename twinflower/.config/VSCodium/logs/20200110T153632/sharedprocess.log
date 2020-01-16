@@ -1,0 +1,9 @@
+[2020-01-10 15:36:36.291] [sharedprocess] [info] main {"machineId":"dd1ceadabadc6ddc42f5d130adcb17a186afe9653e5c911c4cb367fef2c03b4f","windowId":2}
+[2020-01-10 15:36:36.846] [sharedprocess] [info] Deleted from disk equinusocio.vsc-material-theme /home/cupoftwee/.vscode-oss/extensions/equinusocio.vsc-material-theme-31.6.0
+[2020-01-10 15:36:38.345] [sharedprocess] [info] Installing extension: equinusocio.vsc-community-material-theme
+[2020-01-10 15:36:39.044] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-community-material-theme /tmp/3c080236-ed43-459d-9c9e-1d4d49127dc6
+[2020-01-10 15:36:39.117] [sharedprocess] [info] Extracted extension to /home/cupoftwee/.vscode-oss/extensions/.equinusocio.vsc-community-material-theme-1.4.0: equinusocio.vsc-community-material-theme
+[2020-01-10 15:36:39.122] [sharedprocess] [info] Renamed to /home/cupoftwee/.vscode-oss/extensions/equinusocio.vsc-community-material-theme-1.4.0
+[2020-01-10 15:36:39.125] [sharedprocess] [info] Installation completed. equinusocio.vsc-community-material-theme
+[2020-01-10 15:36:39.138] [sharedprocess] [info] Extensions installed successfully: equinusocio.vsc-community-material-theme
+[2020-01-10 15:37:16.308] [sharedprocess] [info] Starting to clean up unused language packs.

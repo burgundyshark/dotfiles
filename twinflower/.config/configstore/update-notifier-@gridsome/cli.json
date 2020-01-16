@@ -1,0 +1,10 @@
+{
+	"optOut": false,
+	"lastUpdateCheck": 1578431421286,
+	"update": {
+		"latest": "0.3.1",
+		"current": "0.2.3",
+		"type": "minor",
+		"name": "@gridsome/cli"
+	}
+}

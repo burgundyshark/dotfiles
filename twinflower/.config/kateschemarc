@@ -1,0 +1,6 @@
+[$Version]
+update_info=fonts_kate.upd:Plasma_Fonts_Kate
+
+[Normal]
+Font=Cantarell,13,-1,5,50,0,0,0,0,0
+dummy=prevent-empty-group
